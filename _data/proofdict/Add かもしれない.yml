@@ -1,0 +1,10 @@
+id: 01HTEGPHKDFY2GV2V45NBHEKBS
+description: ''
+expected: かもしれない
+patterns:
+  - かも知れない
+allows: []
+specs:
+  - from: かも知れない
+    to: かもしれない
+tags: []
